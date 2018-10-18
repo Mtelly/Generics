@@ -1,0 +1,11 @@
+/home/dennis/C# Projects/PluralSight/Generics/bin/Debug/netcoreapp2.0/Generics.deps.json
+/home/dennis/C# Projects/PluralSight/Generics/bin/Debug/netcoreapp2.0/Generics.runtimeconfig.json
+/home/dennis/C# Projects/PluralSight/Generics/bin/Debug/netcoreapp2.0/Generics.runtimeconfig.dev.json
+/home/dennis/C# Projects/PluralSight/Generics/bin/Debug/netcoreapp2.0/Generics.dll
+/home/dennis/C# Projects/PluralSight/Generics/bin/Debug/netcoreapp2.0/Generics.pdb
+/home/dennis/C# Projects/PluralSight/Generics/obj/Debug/netcoreapp2.0/Generics.csproj.CoreCompileInputs.cache
+/home/dennis/C# Projects/PluralSight/Generics/obj/Debug/netcoreapp2.0/Generics.AssemblyInfoInputs.cache
+/home/dennis/C# Projects/PluralSight/Generics/obj/Debug/netcoreapp2.0/Generics.AssemblyInfo.cs
+/home/dennis/C# Projects/PluralSight/Generics/obj/Debug/netcoreapp2.0/Generics.dll
+/home/dennis/C# Projects/PluralSight/Generics/obj/Debug/netcoreapp2.0/Generics.pdb
+/home/dennis/C# Projects/PluralSight/Generics/obj/Debug/netcoreapp2.0/Generics.csprojResolveAssemblyReference.cache
