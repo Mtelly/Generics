@@ -1,6 +1,6 @@
 using System.Collections;
 
-namespace DataStructures
+namespace Generics
 {
     public class CircularBuffer
     {
